@@ -30,4 +30,9 @@
 
 * 题解 [LengthOfLongestSubstring.java](./src/main/java/com/vincent/leetcode/medium/LengthOfLongestSubstring.java)
 
-# 三 复杂
+### 2、[二叉搜索树中的插入操作](https://leetcode-cn.com/problems/insert-into-a-binary-search-tree/)
+* 题目描述:给定二叉搜索树（BST）的根节点和要插入树中的值，将值插入二叉搜索树。 返回插入后二叉搜索树的根节点。 输入数据保证，新值和原始二叉搜索树中的任意节点值都不同。
+* 思路:比较当前节点和target的大小，选择左右哪个节点
+* 题解 [InsertIntoBST.java](./src/main/java/com/vincent/leetcode/medium/InsertIntoBST.java)
+ 
+# 三 困难
