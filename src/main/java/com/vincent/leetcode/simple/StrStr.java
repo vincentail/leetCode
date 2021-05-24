@@ -1,7 +1,5 @@
 package com.vincent.leetcode.simple;
 
-import com.sun.tools.javac.util.Assert;
-
 public class StrStr {
     public int strStr(String haystack, String needle) {
         if (needle == null || needle.equals("")) {
